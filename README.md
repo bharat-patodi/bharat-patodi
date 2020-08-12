@@ -4,8 +4,8 @@
 **bharat-patodi/bharat-patodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning to Build Products with Ruby on Rails and React
-- 👯 Open Source: (a) remoteIndian
-- 📫 Stack Overflow: https://stackoverflow.com/users/6006520/stringman
+- 🌱 I’m currently learning to Build Products with Ruby and JS
+- Products: (i) Numero
+- 👯 Open Source: (a) remoteIndian (b) chatwoot
 - 📫 Twitter: @bharatpatodi
 - 😄 Pronouns: He/Him
