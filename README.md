@@ -5,7 +5,7 @@
 -->
 
 - 🌱 I’m currently learning to Build Products with Ruby and JS
-- Products: (i) Numero
+- Products: (i) Numero (ii) triKone
 - 👯 Open Source: (a) remoteIndian (b) chatwoot
 - 📫 Twitter: @bharatpatodi
 - 😄 Pronouns: He/Him
