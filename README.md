@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning to Build Products with Ruby and JS
 - Products: (i) [Numero](https://altcampus.github.io/numero/build/index.html) (ii) [triKone](https://bharat-patodi.github.io/trikone/)
 - 👯 Open Source: (a) remoteIndian (b) chatwoot
-- 📫 Twitter: @bharatpatodi
+- 📫 Twitter: [@bharatpatodi](https://twitter.com/bharatpatodi)
 - 😄 Pronouns: He/Him
 - ![hi](https://www.codewars.com/users/bharat-patodi/badges/small)
