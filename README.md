@@ -9,12 +9,14 @@
 I like to build products that bring a shine in my eyes. My current favorite ones include:
 
 (i) 🦜 [Numero](https://altcampus.github.io/numero/build/index.html) 
+
 (ii) 🦉 [triKone](https://bharat-patodi.github.io/trikone/)
 
 I try to help open-source projects as much as I can. The following are some Indian open-source projects that I like to interact with:
 
-(a) [remoteIndian](https://github.com/remoteindian/remoteindian) 
-(b) [chatwoot](https://github.com/chatwoot/chatwoot)
+(a) 🦓 [remoteIndian](https://github.com/remoteindian/remoteindian) 
+
+(b) 🦄 [chatwoot](https://github.com/chatwoot/chatwoot)
 
 ![hi](https://www.codewars.com/users/bharat-patodi/badges/small)
 
