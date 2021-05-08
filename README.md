@@ -1,7 +1,7 @@
 ### A code lover 🦕
 
 <!--
-**bharat-patodi/bharat-patodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bharat-patodi/bharat-patodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GH profile.
 -->
 
 🦚 Ruby and 🦩 JS are my two languages of choice right now.
