@@ -8,7 +8,7 @@ I like to build products that bring a shine in my eyes. My current favorite ones
 
 (ii) 🦉 [triKone](https://bharat-patodi.github.io/trikone/)
 
-Open-source contributions: [AppSmith](#), [Zulip](#), [chatwoot](https://github.com/chatwoot/chatwoot), [tOP](#)
+Open-source contributions: [AppSmith](#), [chatwoot](https://github.com/chatwoot/chatwoot), [tOP](#)
 
 ![hi](https://www.codewars.com/users/bharat-patodi/badges/small)
 
