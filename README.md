@@ -17,6 +17,7 @@ My tech stack: <span style="background-color:#6e40c9 ">HTML</span>, <span style=
 Things that I like talking about: Web Accessibility and Design Systems.
 
 <!-- Include a word about my interest in serverless and JAMStack -->
+<!--  Also include WASM, typeScript, NextJS and Supabase -->
 
 *Note*:
 
