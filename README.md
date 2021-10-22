@@ -18,6 +18,8 @@ Things that I like talking about: Web Accessibility and Design Systems.
 
 <!-- Include a word about my interest in serverless and JAMStack -->
 <!--  Also include WASM, typeScript, NextJS and Supabase -->
+<!-- Create small launched projects like npm module, a browser of my own, my blog, numero, giftMeThis, etc. -->
+<!-- Display these projects using a markdown table -->
 
 *Note*:
 
