@@ -3,7 +3,7 @@
 | Company Work | Open-source Contributions | Client Projects | Personal Projects |
 |---|---|---|---|
 |[BigBinary Academy](https://academy.bigbinary.com/)| [AppSmith](https://github.com/appsmithorg/appsmith) [Code] |  [Chahal Pahal Tea](https://www.chahalpahaltea.com/) [Full Stack] |  [Numero](https://altcampus.github.io/numero/build/index.html) [Front-end] |
-|| [triKone](https://bharat-patodi.github.io/trikone/) [Code] |  [North South Roadlines](#) [Full Stack] |  [Bling](https://bling-wip.netlify.app/) [Front-end] |
+|| [triKone](https://bharat-patodi.github.io/trikone/) [Maintainer] |  [North South Roadlines](#) [Full Stack] |  [Bling](https://bling-wip.netlify.app/) [Front-end] |
 || [chatwoot](https://github.com/chatwoot/chatwoot) [Documentation] | [Golazo Sports](https://golazo-sports.herokuapp.com/) [Front-end] | |
 || [The Odin Project](https://github.com/TheOdinProject/curriculum) [Documentation] | |
 || [run-wasm](https://github.com/slipHQ/run-wasm) [Documentation] | |
