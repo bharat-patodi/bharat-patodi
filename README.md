@@ -4,11 +4,15 @@
 
 I like to build products that bring a shine in my eyes. My current favorite ones include:
 
-(i) 🦜 [Numero](https://altcampus.github.io/numero/build/index.html)
+Open-source code contributions: [AppSmith](https://github.com/appsmithorg/appsmith), [triKone](https://bharat-patodi.github.io/trikone/)
 
-(ii) 🦉 [triKone](https://bharat-patodi.github.io/trikone/)
+Open-source doc contributions: [chatwoot](https://github.com/chatwoot/chatwoot), [tOP](https://github.com/TheOdinProject/curriculum), [run-wasm](https://github.com/slipHQ/run-wasm)
 
-Open-source contributions: [AppSmith](#), [chatwoot](https://github.com/chatwoot/chatwoot), [tOP](#)
+Full Stack Client Projects: [Chahal Pahal Tea](https://www.chahalpahaltea.com/), [North South Roadlines](#)
+
+Front-end Client Projects: [Golazo Sports](https://golazo-sports.herokuapp.com/)
+
+Front-end Personal Projects: [Numero](https://altcampus.github.io/numero/build/index.html), [Bling](https://bling-wip.netlify.app/)
 
 ![hi](https://www.codewars.com/users/bharat-patodi/badges/small)
 
