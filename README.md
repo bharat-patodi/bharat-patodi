@@ -1,13 +1,13 @@
 ## A code lover && JavaScript 💛
 
-| Company Work | Open-source Contributions | Client Projects | Personal Projects |
+| Teaching | Open-source Contributions | Client Projects | Personal Projects |
 |---|---|---|---|
 |[BigBinary Academy](https://academy.bigbinary.com/)| [AppSmith](https://github.com/appsmithorg/appsmith) [Code] |  [Chahal Pahal Tea](https://www.chahalpahaltea.com/) [Full Stack] |  [Numero](https://altcampus.github.io/numero/build/index.html) [Front-end] |
-|| [triKone](https://bharat-patodi.github.io/trikone/) [Maintainer] |  [North South Roadlines](#) [Full Stack] |  [Bling](https://bling-wip.netlify.app/) [Front-end] |
-|| [chatwoot](https://github.com/chatwoot/chatwoot) [Documentation] | [Golazo Sports](https://golazo-sports.herokuapp.com/) [Front-end] | |
-|| [The Odin Project](https://github.com/TheOdinProject/curriculum) [Documentation] | |
-|| [run-wasm](https://github.com/slipHQ/run-wasm) [Documentation] | |
-|| [remoteIndian](https://remoteindian.vercel.app/) [Documentation] | |
+|[Pyoopel](https://www.pyoopel.com)| [triKone](https://bharat-patodi.github.io/trikone/) [Maintainer] |  [North South Roadlines](#) [Full Stack] |  [Bling](https://bling-wip.netlify.app/) [Front-end] |
+|| [chatwoot](https://github.com/chatwoot/chatwoot) [Doc] | [Golazo Sports](https://golazo-sports.herokuapp.com/) [Front-end] | |
+|| [The Odin Project](https://github.com/TheOdinProject/curriculum) [Doc] | |
+|| [run-wasm](https://github.com/slipHQ/run-wasm) [Doc] | |
+|| [remoteIndian](https://remoteindian.vercel.app/) [Doc] | |
 
 **Problem-solving skills** - Top 1.195% on Codewars - ![hi](https://www.codewars.com/users/bharat-patodi/badges/small) 
 
