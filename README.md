@@ -7,7 +7,8 @@
 || [chatwoot](https://github.com/chatwoot/chatwoot) [Doc] | [Golazo Sports](https://golazo-sports.herokuapp.com/) [Client] [Front-end] | |
 || [The Odin Project](https://github.com/TheOdinProject/curriculum) [Doc] | [Numero](https://altcampus.github.io/numero/build/index.html) [Personal] [Front-end] |
 || [run-wasm](https://github.com/slipHQ/run-wasm) [Doc] |  [Bling](https://bling-wip.netlify.app/) [Official] [Front-end]  |
-|| [remoteIndian](https://remoteindian.vercel.app/) [Doc] | |
+|| [remoteIndian](https://remoteindian.vercel.app/) [Doc] | [Munchster](https://github.com/bharat-patodi/munchster) [Discord Bot] |
+
 
 **Problem-solving skills** - Top 1.195% on Codewars - ![hi](https://www.codewars.com/users/bharat-patodi/badges/small) 
 
