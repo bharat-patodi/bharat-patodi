@@ -11,7 +11,7 @@
 
 🦚 Ruby & 🦩 JS are my two languages of choice right now.
 
-**Problem-solving skills** - Top 1.033% on Codewars - ![hi](https://www.codewars.com/users/bharat-patodi/badges/small)
+**Problem-solving skills** - Top 1.017% on Codewars - ![hi](https://www.codewars.com/users/bharat-patodi/badges/small)
 
 **Tech stack** - <span style="background-color:#6e40c9 ">HTML</span>, <span style="background-color:#db61a2 ">CSS</span>, <span style="background-color:#da3633 ">JavaScript</span>, <span style="background-color:#34495e ">Node</span>, <span style="background-color:#2980b9 ">Express</span>, <span style="background-color:#272727 ">Git</span>, <span style="background-color:#39cccc ">Markdown</span>, <span style="background-color:#ffc600 ">Linux</span>, <span style="background-color:#7f8c8d ">React</span>
 
