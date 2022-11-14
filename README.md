@@ -23,4 +23,8 @@
 <!-- Add some colours -->
 <!-- Make each project have a style of its own: (a) Numero to have a neumorphic style (b) XX to have a scroll style of remix.run & appsmith -->
 <!-- We can add images and stuff for better project view. Ref: https://github.com/yiremorlans/yiremorlans -->
+<!-- Include my leetCode 1% profile -->
+<!-- Include my CodeWars 1% profile -->
+<!-- Include my Portfolio projects that are being used by people === 3 to 6 -->
+<!-- Include my Open Source contribs -->
 *Note: If you find me plagiarizing, please out me publicly. I won't be hurt 🦝. I don't actively plagiarize. I like to own my own creations, but if it happens, I'm ready to face the heat.*
