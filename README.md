@@ -9,7 +9,7 @@
 || [run-wasm](https://github.com/slipHQ/run-wasm) [Doc] |  [Bling](https://bling-wip.netlify.app/) [Official] [Front-end]  |
 || [remoteIndian](https://remoteindian.vercel.app/) [Doc] | [Munchster](https://github.com/bharat-patodi/munchster) [Discord Bot] |
 
-🦚 Ruby & 🦩 JS are my two languages of choice right now.
+🦚 JS & 🦩 Python are my two languages of choice right now.
 
 **Problem-solving skills** - Top 1% on Codewars - ![hi](https://www.codewars.com/users/bharat-patodi/badges/small)
 
