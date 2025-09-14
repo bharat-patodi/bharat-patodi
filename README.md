@@ -5,7 +5,7 @@
 |[BigBinary Academy](https://academy.bigbinary.com/)| [AppSmith](https://github.com/appsmithorg/appsmith) [Code] |  [Chahal Pahal Tea](https://www.chahalpahaltea.com/) [Client] [Full Stack] |   |
 |[Pyoopel](https://www.pyoopel.com)| [triKone](https://bharat-patodi.github.io/trikone/) [Maintainer] |  [North South Roadlines](#) [Client] [Full Stack] | |
 || [chatwoot](https://github.com/chatwoot/chatwoot) [Doc] | [Golazo Sports](https://golazo-sports.herokuapp.com/) [Client] [Front-end] | |
-|| [The Odin Project](https://github.com/TheOdinProject/curriculum) [Doc] | [Numero](https://altcampus.github.io/numero/build/index.html) [Personal] [Front-end] |
+|| [The Odin Project](https://github.com/TheOdinProject/curriculum) [Doc] | [Numero](https://numero-beta.vercel.app/) [Personal] [Front-end] |
 || [run-wasm](https://github.com/slipHQ/run-wasm) [Doc] |  [Bling](https://bling-wip.netlify.app/) [Official] [Front-end]  |
 || [remoteIndian](https://remoteindian.vercel.app/) [Doc] | [Munchster](https://github.com/bharat-patodi/munchster) [Discord Bot] |
 
