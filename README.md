@@ -2,7 +2,7 @@
 
 | Teaching | Open-source Contributions | Projects |
 |---|---|---|
-|[BigBinary Academy](https://academy.bigbinary.com/)| [AppSmith](https://github.com/appsmithorg/appsmith) [Code] |  [Chahal Pahal Tea](https://www.chahalpahaltea.com/) [Client] [Full Stack] |   |
+|[BigBinary Academy](https://academy.bigbinary.com/)| [AppSmith](https://github.com/appsmithorg/appsmith) [Code] |  [Chahal Pahal Tea](https://chahal-pahal-tea-bharat-patodi.vercel.app/) [Client] [Full Stack] |   |
 |[Pyoopel](https://www.pyoopel.com)| [triKone](https://bharat-patodi.github.io/trikone/) [Maintainer] |  [North South Roadlines](https://nsrl.in/) [Client] [Full Stack] | |
 || [chatwoot](https://github.com/chatwoot/chatwoot) [Doc] | [Golazo Sports](https://golazo-sports.herokuapp.com/) [Client] [Front-end] | |
 || [The Odin Project](https://github.com/TheOdinProject/curriculum) [Doc] | [Numero](https://numero-beta.vercel.app/) [Personal] [Front-end] |
